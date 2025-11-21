@@ -15,42 +15,42 @@ A detailed analysis of customer-level sales, revenue contribution, discount patt
 ---
 
 ### 2️⃣ **Market Performance vs Target Report**  
-📄 Market Performance vs Target Report.pdf  
+📄 [Market Performance vs Target Report.pdf](https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)  
 Analyzes regional/market-level performance vs sales targets.  
 **Objective:** Help leadership assess which markets are exceeding or lagging behind expectations.
 
 ---
 
 ### 3️⃣ **Profit & Loss (P&L) Statement**  
-📄 P&L Statement.pdf  
+📄 [P&L Statement.pdf](https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/P%26L%20Statement.pdf) 
 A complete P&L model showing revenue, cost of goods sold (COGS), gross margin, and net profitability.  
 **Objective:** Provide a clear, structured view of company financial performance.
 
 ---
 
 ### 4️⃣ **P&L by Quarters**  
-📄 P&L by Quarters.pdf  
+📄 [P&L by Quarters.pdf](https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/P%26L%20by%20Quarters.pdf)  
 Quarter-wise breakdown of P&L metrics for performance comparison across Q1, Q2, Q3, Q4.  
 **Objective:** Highlight seasonal trends and quarterly performance variances.
 
 ---
 
 ### 5️⃣ **Project Priority Matrix**  
-📄 Project Priority Matrix.pdf  
+📄 [Project Priority Matrix.pdf]( https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix.pdf) 
 A bubble-chart-based prioritization tool that evaluates projects based on **feasibility, impact, and project size**.  
 **Objective:** Support strategic decision-making and resource allocation.
 
 ---
 
 ### 6️⃣ **Sales Analytics Report**  
-📄 Sales_anlytics_report.pdf  
+📄 [Sales_anlytics_report.pdf](https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Sales_anlytics_report.pdf)  
 A consolidated dashboard summarizing sales KPIs, revenue trends, discount impact, and performance highlights.  
 **Objective:** Enable sales teams and management to monitor performance at a glance.
 
 ---
 
 ### 7️⃣ **Scenario Planning Tool**  
-📄 Scenario Planning Tool.pdf  
+📄 [Scenario Planning Tool.pdf]( https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Scenario%20Planning%20Tool.pdf) 
 A dynamic model to evaluate **Best / Realistic / Worst Case** sales scenarios by adjusting units, discount %, COGS, and pricing parameters.  
 **Objective:** Support pricing decisions, negotiation strategy, and profitability forecasting.
 
