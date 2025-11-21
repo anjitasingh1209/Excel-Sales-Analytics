@@ -8,7 +8,7 @@ This repository showcases end-to-end analytics capabilities—from ETL to report
 ## 🚀 Featured Projects
 
 ### 1️⃣ **Customer Performance Report**  
-📄 Customer Performance Report.pdf(https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
+📄 [Customer Performance Report.pdf](https://github.com/anjitasingh1209/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
 A detailed analysis of customer-level sales, revenue contribution, discount patterns, and profitability.  
 **Objective:** Evaluate customer health, identify key accounts, and optimize sales strategy.
 
